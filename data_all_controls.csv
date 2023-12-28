@@ -1,0 +1,199 @@
+"","Condition","Segment","names","value"
+"1","Pe max",NA,"Channel 1",NA
+"2","Pe max",NA,"Channel 2",NA
+"3","Pe max",NA,"Channel 1",NA
+"4","Pe max",NA,"Channel 2",NA
+"5","Pe max",NA,"Channel 1",NA
+"6","Pe max",NA,"Channel 2",NA
+"7","Pe max",NA,"Channel 1",NA
+"8","Pe max",NA,"Channel 2",NA
+"9","Pe max",NA,"Channel 1",NA
+"10","Pe max",NA,"Channel 2",1.37130277095652
+"11","Pe max",NA,"Channel 1",NA
+"12","Pe max",NA,"Channel 2",NA
+"13","Pe max",NA,"Channel 1",NA
+"14","Pe max",NA,"Channel 2",NA
+"15","Pe max",NA,"Channel 1",NA
+"16","Pe max",NA,"Channel 2",NA
+"17","Pe max",NA,"Channel 1",NA
+"18","Pe max",NA,"Channel 2",NA
+"19","Pe max","Proximal segments","Channel 1",1.90533066020389
+"20","Pe max","Proximal segments","Channel 2",NA
+"21","Pe max","Proximal segments","Channel 1",NA
+"22","Pe max","Proximal segments","Channel 2",NA
+"23","Pe max","Intermediate segments","Channel 1",NA
+"24","Pe max","Intermediate segments","Channel 2",NA
+"25","Pe max","Intermediate segments","Channel 1",NA
+"26","Pe max","Intermediate segments","Channel 2",NA
+"27","Pe max","Distal segments","Channel 1",NA
+"28","Pe max","Distal segments","Channel 2",NA
+"29","Pe max","Distal segments","Channel 1",NA
+"30","Pe max","Distal segments","Channel 2",NA
+"31","Pe max","Distal segments","Channel 1",NA
+"32","Pe max","Distal segments","Channel 2",NA
+"33","Pe max","Distal segments","Channel 1",NA
+"34","Pe max","Distal segments","Channel 2",NA
+"35","Pe max","Proximal segments","Channel 1",NA
+"36","Pe max","Proximal segments","Channel 2",NA
+"37","Pe max","Proximal segments","Channel 1",1.90533066020389
+"38","Pe max","Proximal segments","Channel 2",NA
+"39","PE max","Proximal segments","Channel 1",-0.25274613919792
+"40","PE max","Proximal segments","Channel 2",-1.63915739096984
+"41","PE max","Proximal segments","Channel 1",-1.44511611175257
+"42","PE max","Proximal segments","Channel 2",-0.934363104590862
+"43","PE max","Intermediate segments","Channel 1",0.298859448154948
+"44","PE max","Intermediate segments","Channel 2",0.0031660566357465
+"45","PE max","Distal segments","Channel 1",0.932255337666738
+"46","PE max","Distal segments","Channel 2",1.34491106549025
+"47","PE max","Intermediate segments","Channel 1",0.257301132463388
+"48","PE max","Intermediate segments","Channel 2",0.0301237641470544
+"49","PE max","Distal segments","Channel 1",0.946992329046723
+"50","PE max","Distal segments","Channel 2",1.3233448994812
+"51","PE max","Proximal segments","Channel 1",-0.478516847139302
+"52","PE max","Proximal segments","Channel 2",-1.51889606246106
+"53","PE max","Intermediate segments","Channel 1",0.454629447041399
+"54","PE max","Intermediate segments","Channel 2",0.367544403163595
+"55","PE max","Distal segments","Channel 1",-0.645634329388341
+"56","PE max","Distal segments","Channel 2",-0.841359013676848
+"57","PE max","Proximal segments","Channel 1",-0.453169221965727
+"58","PE max","Proximal segments","Channel 2",-1.48215869772482
+"59","PE max","Intermediate segments","Channel 1",0.453450487730999
+"60","PE max","Intermediate segments","Channel 2",0.395849996050469
+"61","PE max","Distal segments","Channel 1",-0.645634329388341
+"62","PE max","Distal segments","Channel 2",-0.841359013676848
+"63","PE max","Proximal segments","Channel 1",-0.81230970189598
+"64","PE max","Proximal segments","Channel 2",-0.480575028150507
+"65","PE max","Intermediate segments","Channel 1",0.247869457980198
+"66","PE max","Intermediate segments","Channel 2",0.540672791402886
+"67","PE max","Distal segments","Channel 1",1.49948213588239
+"68","PE max","Distal segments","Channel 2",0.361104506369228
+"69","PE max","Proximal segments","Channel 1",0.101089023835539
+"70","PE max","Proximal segments","Channel 2",-0.0182503443315712
+"71","PE max","Intermediate segments","Channel 1",0.645768225239814
+"72","PE max","Intermediate segments","Channel 2",0.951777830950337
+"73","PE max","Distal segments","Channel 1",1.60691480304249
+"74","PE max","Distal segments","Channel 2",0.373684769874505
+"75","PE max","Proximal segments","Channel 1",-0.81230970189598
+"76","PE max","Proximal segments","Channel 2",-0.480575028150507
+"77","PE max","Intermediate segments","Channel 1",0.247869457980198
+"78","PE max","Intermediate segments","Channel 2",0.540672791402886
+"79","PE max","Distal segments","Channel 1",1.49948213588239
+"80","PE max","Distal segments","Channel 2",0.361104506369228
+"81","PE max","Proximal segments","Channel 1",-0.189751379727963
+"82","PE max","Proximal segments","Channel 2",-0.551932918002807
+"83","PE max","Proximal segments","Channel 1",-0.189380133955928
+"84","PE max","Proximal segments","Channel 2",-0.559119754794296
+"85","PE max","Distal segments","Channel 1",-0.0493508693163402
+"86","PE max","Distal segments","Channel 2",2.09661984070182
+"87","PE max","Distal segments","Channel 1",-0.0580828792460885
+"88","PE max","Distal segments","Channel 2",2.22164368073487
+"89","PE max","Proximal segments","Channel 1",-0.134428025407777
+"90","PE max","Proximal segments","Channel 2",-0.676685556647507
+"91","PE max","Proximal segments","Channel 1",-0.147877950357141
+"92","PE max","Proximal segments","Channel 2",-0.590307914455471
+"93","PE max","Intermediate segments","Channel 1",-0.0961201023058782
+"94","PE max","Intermediate segments","Channel 2",0.920148218004637
+"95","PE max","Intermediate segments","Channel 1",-0.0991442084905829
+"96","PE max","Intermediate segments","Channel 2",0.903876134703154
+"97","PE max","Proximal segments","Channel 1",-0.168930679346313
+"98","PE max","Proximal segments","Channel 2",0.312657108082625
+"99","PE max","Intermediate segments","Channel 1",-0.134961691205078
+"100","PE max","Intermediate segments","Channel 2",-0.310021279587435
+"101","PE max","Proximal segments","Channel 1",-0.129137773156273
+"102","PE max","Proximal segments","Channel 2",0.632132343568398
+"103","PE max","Distal segments","Channel 1",-0.10400907496163
+"104","PE max","Distal segments","Channel 2",0.844483030652744
+"105","PE max","Proximal segments","Channel 1",-0.263892254118192
+"106","PE max","Proximal segments","Channel 2",-1.29651632973981
+"107","PE max","Proximal segments","Channel 1",-0.263273511164799
+"108","PE max","Proximal segments","Channel 2",-1.29149910405518
+"109","PE max","Intermediate segments","Channel 1",-0.155132711485666
+"110","PE max","Intermediate segments","Channel 2",-0.385144064162613
+"111","PE max","Distal segments","Channel 1",-0.186611259239497
+"112","PE max","Distal segments","Channel 2",-0.605901994286058
+"113","PE max","Distal segments","Channel 1",-0.18678141355168
+"114","PE max","Distal segments","Channel 2",-0.613495633160083
+"115","PE max","Distal segments","Channel 1",-0.153261014051654
+"116","PE max","Distal segments","Channel 2",1.12897328704033
+"117","PE max","Distal segments","Channel 1",-0.153291951199324
+"118","PE max","Distal segments","Channel 2",1.18050155082836
+"119","PE max","Proximal segments","Channel 1",-0.204523867740204
+"120","PE max","Proximal segments","Channel 2",0.435646937702997
+"121","PE max","Intermediate segments","Channel 1",-0.163771909972405
+"122","PE max","Intermediate segments","Channel 2",1.00354264492473
+"123","PE max","Distal segments","Channel 1",-0.156207777367185
+"124","PE max","Distal segments","Channel 2",0.409204802338088
+"125","PE max","Proximal segments","Channel 1",-0.244943251170553
+"126","PE max","Proximal segments","Channel 2",0.912825780518969
+"127","PE max","Proximal segments","Channel 1",-0.205297296431944
+"128","PE max","Proximal segments","Channel 2",0.327166382359781
+"129","PE max","Proximal segments","Channel 1",-0.170477536729794
+"130","PE max","Proximal segments","Channel 2",0.177056413903606
+"131","PE max","Proximal segments","Channel 1",-0.14499306133695
+"132","PE max","Proximal segments","Channel 2",-0.692957639948989
+"133","PE max","Proximal segments","Channel 1",-0.150198236432362
+"134","PE max","Proximal segments","Channel 2",-0.603867983873373
+"135","PE max","Proximal segments","Channel 1",-0.150422530752967
+"136","PE max","Proximal segments","Channel 2",-0.692957639948989
+"137","PE max","Proximal segments","Channel 1",-0.154838808582804
+"138","PE max","Proximal segments","Channel 2",-0.0693300474196747
+"139","PE max","Intermediate segments","Channel 1",0.7948066412643
+"140","PE max","Intermediate segments","Channel 2",0.196114365807539
+"141","PE max","Proximal segments","Channel 1",-0.298792927428458
+"142","PE max","Proximal segments","Channel 2",-0.287665439120305
+"143","PE max","Intermediate segments","Channel 1",0.211414137124186
+"144","PE max","Intermediate segments","Channel 2",-0.783539739171346
+"145","PE max","Distal segments","Channel 1",0.298888162535876
+"146","PE max","Distal segments","Channel 2",-0.033249095278787
+"147","PE max","Distal segments","Channel 1",0.676315929551254
+"148","PE max","Distal segments","Channel 2",0.135857863318759
+"149","PE max","Proximal segments","Channel 1",-1.72509582783314
+"150","PE max","Proximal segments","Channel 2",-1.56914198936109
+"151","PE max","Proximal segments","Channel 1",-1.71580243867917
+"152","PE max","Proximal segments","Channel 2",-1.56514648650789
+"153","PE max","Intermediate segments","Channel 1",-0.0915503492950519
+"154","PE max","Intermediate segments","Channel 2",-0.843364295405726
+"155","PE max","Distal segments","Channel 1",-0.564351522502989
+"156","PE max","Distal segments","Channel 2",NA
+"157","PE max","Distal segments","Channel 1",-0.566907204520329
+"158","PE max","Distal segments","Channel 2",NA
+"159","PE max","Distal segments","Channel 1",-0.0634378471043097
+"160","PE max","Distal segments","Channel 2",0.362413673751486
+"161","PE max","Distal segments","Channel 1",-0.0639025165620079
+"162","PE max","Distal segments","Channel 2",0.403448567919472
+"163","PE max","Proximal segments","Channel 1",-0.833395138510257
+"164","PE max","Proximal segments","Channel 2",-0.189721625935137
+"165","PE max","Intermediate segments","Channel 1",-0.22130929535728
+"166","PE max","Intermediate segments","Channel 2",0.262526102421518
+"167","PE max","Distal segments","Channel 1",-0.107697612950065
+"168","PE max","Distal segments","Channel 2",-0.21077900583713
+"169","PE max","Distal segments","Channel 1",NA
+"170","PE max","Distal segments","Channel 2",0.190283091373141
+"171","PE max","Intermediate segments","Channel 1",-0.22130929535728
+"172","PE max","Intermediate segments","Channel 2",0.262526102421518
+"173","PE max","Distal segments","Channel 1",-0.107697612950065
+"174","PE max","Distal segments","Channel 2",-0.21077900583713
+"175","PE max","Distal segments","Channel 1",NA
+"176","PE max","Distal segments","Channel 2",0.190283091373141
+"177","PE max",NA,"Channel 1",0.571899931398223
+"178","PE max",NA,"Channel 2",0.030149429016198
+"179","PE max",NA,"Channel 1",0.580918482475183
+"180","PE max",NA,"Channel 2",0.115627171658253
+"181","PE max",NA,"Channel 1",0.151196710889169
+"182","PE max",NA,"Channel 2",-0.722782176384035
+"183","PE max",NA,"Channel 1",0.967009966418603
+"184","PE max",NA,"Channel 2",0.652136407390304
+"185","PE max",NA,"Channel 1",0.626254982483691
+"186","PE max",NA,"Channel 2",0.726702097780183
+"187","PE max",NA,"Channel 1",0.60090554161872
+"188","PE max",NA,"Channel 2",0.700980831757194
+"189","PE max",NA,"Channel 1",1.41842500951406
+"190","PE max",NA,"Channel 2",NA
+"191","PE max",NA,"Channel 1",NA
+"192","PE max",NA,"Channel 2",NA
+"193","PE max",NA,"Channel 1",0.479520719015296
+"194","PE max",NA,"Channel 2",0.652136407390304
+"195","PE max",NA,"Channel 1",0.626254982483691
+"196","PE max",NA,"Channel 2",0.726702097780183
+"197","PE max",NA,"Channel 1",0.60090554161872
+"198","PE max",NA,"Channel 2",0.700980831757194

@@ -1,0 +1,52 @@
+---
+title: "Tensitometry analysis"
+author: "O.M."
+date: "2023-12-24"
+output: html_document
+---
+
+```{r}
+library(readxl)
+library(ggstatsplot)
+library(ggpubr)
+library(ggsignif)
+library(tidyverse)
+```
+
+
+```{r different segments, fig.width = 9, fig.height = 6.1}
+
+plb<-read.csv("data_all_controls.csv")
+plb$Segment<-factor(plb$Segment, levels=c("Proximal segments", "Intermediate segments", "Distal segments"))
+ggbetweenstats(plb, x="Segment", y="value", ggplot.component = ggplot2::scale_color_manual(values=c("#FFF019", "#107A9E", "#403C00")), point.args = list(position = ggplot2::position_jitterdodge(dodge.width = 0.49), alpha =
+    0.54, size = 3, stroke = 0), bf.message=F, ylab="Normalized Amplitude", results.subtitle = T)+theme(axis.title.y.right = element_blank(), axis.text.y.right = element_blank(), axis.ticks.y.right = element_blank())
+```
+
+
+```{r}
+
+fldt<-read.csv("data_barium.csv")
+fldt$Segment<-factor(fldt$Segment, levels=c("Proximal segments", "Distal segments"))
+ggbetweenstats(fldt, x=Segment, y=value,  ggplot.component = ggplot2::scale_color_manual(values=c("#FFF019", "#107A9E")), point.args = list(position = ggplot2::position_jitterdodge(dodge.width = 0.6), alpha =
+    0.54, size = 3, stroke = 0), bf.message=F, title="A", ylab="Normalized Amplitude", results.subtitle = F)+theme(axis.title.y.right = element_blank(), axis.text.y.right = element_blank(), axis.ticks.y.right = element_blank())+geom_signif(comparisons = list(c("Proximal segments", "Distal segments")), map_signif_level = function(p) sprintf("p = %.2g", p), test="t.test", family = "OpenSans", textsize = 3, annotations = c("T(Welch)=-2.15, p=0.04"))
+```
+
+
+
+```{r}
+
+nicra<-read.csv("nicradipine.csv")
+ggbetweenstats(nicra, x=Condition, y=value,  ggplot.component = ggplot2::scale_color_manual(values=c("#FFF019", "#107A9E")), point.args = list(position = ggplot2::position_jitterdodge(dodge.width = 0.6), alpha =
+    0.54, size = 3, stroke = 0), bf.message=F, title = "B",ylab="Normalized Basal tone", results.subtitle=F)+geom_signif(comparisons = list(c("Control", "Nicradipine")), map_signif_level = function(p) sprintf("p = %.2g", p), test="t.test", family = "OpenSans", textsize = 3, annotations = c("T(Welch)=-2.40, p=0.03"))+theme(axis.title.y.right = element_blank(), axis.text.y.right = element_blank(), axis.ticks.y.right = element_blank())
+```
+
+
+
+```{r}
+
+df184_flt<-read.csv("18GA_dat.csv")
+df184_flt$Segment<-factor(df184_flt$Segment, levels=c("Proximal segments", "Distal segments"))
+ggbetweenstats(df184_flt, x=Segment, y=value, ggplot.component = ggplot2::scale_color_manual(values=c("#FFF019", "#107A9E")), point.args = list(position = ggplot2::position_jitterdodge(dodge.width = 0.6), alpha =
+    0.54, size = 3, stroke = 0), bf.message=F,, ylab="Normalized Amplitude", results.subtitle=F, title="B")+theme(axis.title.y.right = element_blank(), axis.text.y.right = element_blank(), axis.ticks.y.right = element_blank())+geom_signif(comparisons = list(c("Proximal segments", "Distal segments")), map_signif_level = function(p) sprintf("p = %.2g", p), test="t.test", family = "OpenSans", textsize = 3, annotations = c("T(Welch)=-1.10, p=0.29"))
+```
+
